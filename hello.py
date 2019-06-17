@@ -7,3 +7,5 @@
 
 # 打印hello world
 print("hello world")
+print("hello world")
+print("hello world")
